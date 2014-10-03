@@ -14,12 +14,16 @@ package connect4;
  * and Zach
  */
 public class Connect4 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    //Instance variables
+    String name;
+    String instructions = "This is the game of Connect4 \n\n"
+           + "You will be playing against the computer. You will be \"X\"s\n"
+           + "and I will be \"O\"s. The object of the game is to get four coins"
+           + "in a row either horazontally, vertically, or diagonally.";
+    public static void main(String[] args) 
+    {
+    public void getName() {
+            Scanner input = new Scanner(System.in;
     }
     
 }
