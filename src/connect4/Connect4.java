@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Josh
+ * @author Josh Siqueiros
  * This is scott
  * This is Dustin
  * And Jarom
