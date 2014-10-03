@@ -9,7 +9,7 @@ package connect4;
  *
  * @author Josh
  * This is scott
- * //This is Dustin
+ * This is Dustin
  * And Jarom
  * and Zach
  */
