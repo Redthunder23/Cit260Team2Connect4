@@ -9,11 +9,12 @@ import java.util.Scanner;
 
 /**
  *
- * @author Josh
- * This is scott
- * This is Dustin
- * And Jarom
+ * @author Josh Siqueiros
+ * This is scott Coad
+ * This is Dustin Judd
+ * And Jarom Rial
  * and Zach Cammack
+ * and Sarah Oesterle
  */
 public class Connect4 {
 
