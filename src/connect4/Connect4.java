@@ -20,8 +20,8 @@ public class Connect4 {
            + "You will be playing against the computer. You will be \"X\"s\n"
            + "and I will be \"O\"s. The object of the game is to get four coins"
            + "in a row either horazontally, vertically, or diagonally.";
-    public static void main(String[] args) 
-    {
+    public static void main(String[] args) {
+            }
     public void getName() {
             Scanner input = new Scanner(System.in;
     }
