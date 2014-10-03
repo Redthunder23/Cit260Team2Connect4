@@ -15,6 +15,7 @@ import java.util.Scanner;
  * And Jarom Rial
  * and Zach Cammack
  * and Sarah Oesterle
+ * and Michael Stratford
  */
 public class Connect4 {
 
