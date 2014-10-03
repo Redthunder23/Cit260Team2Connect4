@@ -10,6 +10,7 @@ package connect4;
  * @author Josh
  * This is scott
  * //This is Dustin
+ * And Jarom
  */
 public class Connect4 {
 
