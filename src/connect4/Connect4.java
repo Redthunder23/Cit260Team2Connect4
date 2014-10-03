@@ -8,6 +8,7 @@ package connect4;
 /**
  *
  * @author Josh
+ * This is scott
  */
 public class Connect4 {
 
