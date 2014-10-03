@@ -30,12 +30,14 @@ public class Connect4 {
             + "Good luck, and have fun! \n\n" ;
    
     public static void main(String[] args) {
-            }
+        Connect4 ourGame = new Connect4();
+        ourGame.getName();
+        ourGame.displayHelp();
+    }
     public void getName() {
         Scanner input = new Scanner (System.in);
         System.out.println("Enter your name: ");
         this.name = input.next();
-        
     }
     
     public void  displayHelp() {
