@@ -38,7 +38,7 @@ public class Connect4 {
     
     public void  displayHelp() {
         System.out.println("\nWelcome " + this.name + "\n");
-        System.out.print.ln(this.instructions);
+        System.out.println(this.instructions);
     }
     
     }
