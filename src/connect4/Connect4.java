@@ -13,7 +13,7 @@ import java.util.Scanner;
  * This is scott
  * This is Dustin
  * And Jarom
- * and Zach
+ * and Zach Cammack
  */
 public class Connect4 {
 
