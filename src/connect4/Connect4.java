@@ -5,6 +5,8 @@
  */
 package connect4;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Josh
@@ -14,16 +16,29 @@ package connect4;
  * and Zach
  */
 public class Connect4 {
-    //Instance variables
+
+    /**
+     * @param args the command line arguments
+     */
     String name;
-    String instructions = "This is the game of Connect4 \n\n"
-           + "You will be playing against the computer. You will be \"X\"s\n"
-           + "and I will be \"O\"s. The object of the game is to get four coins"
-           + "in a row either horazontally, vertically, or diagonally.";
+    String instructions = "Welcome to Connect 4! \n\n"
+            + "You will play against another player. Player 1 is red, and player 2 is black. \n\n"
+            + "Start by placing a piece in any collum"
+            + "The first player to connect 4 of their colors together wins! \n\n"
+            + "Good luck, and have fun! \n\n" ;
+   
     public static void main(String[] args) {
             }
     public void getName() {
-            Scanner input = new Scanner(System.in;
+        Scanner input = new Scanner (System.in);
+        System.out.println("Enter your name: ");
+        this.name = input.next();
+        
     }
     
-}
+    public void  displayHelp() {
+        System.out.println("\nWelcome " + this.name + "\n");
+        System.out.print.ln(this.instructions);
+    }
+    
+    }
